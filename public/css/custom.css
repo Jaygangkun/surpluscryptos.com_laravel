@@ -1,0 +1,61 @@
+
+.nav-item i{
+    font-size: 20px;
+    margin-bottom: 5px;
+}
+a{
+    text-decoration: none;
+    color: relative;
+}
+a p{
+    color: #1f1f1f;
+}
+.account-page ul{
+    padding-left: 0px;
+}
+.account-page ul li{
+    list-style: none;
+}
+.account-page .col-md-6{
+    border-radius: 18px;
+    padding: 50px;
+}
+
+.account-page form input{
+    margin-bottom: 15px;
+    margin-top: 8px;
+}
+.account-page h3{
+    margin-bottom: 25px;
+    font-weight: bold;
+}
+
+/* SUPPORT PAGE  */
+.support-page .col-md-6{
+    border-radius: 18px;
+    padding: 50px;
+}
+
+.support-page form input{
+    margin-bottom: 15px;
+    margin-top: 8px;
+}
+
+
+
+.nav-item .menu-title{
+    line-height: 20px !important;
+}
+.sidebar .nav:not(.sub-menu) > .nav-item > .nav-link {
+    margin: 0;
+    padding: 15px;
+}
+@media (max-width: 992px) {
+    .nav-item i{
+        width: 25%;
+        margin-right: 0px !important;
+    }
+    .account-page .col-md-6{
+        padding: 25px;
+    }
+}

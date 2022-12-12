@@ -1,0 +1,101 @@
+.custom-control-input{
+    margin-right: 10px;
+    margin-left: 10px;
+}
+.custom-control-label{
+    margin-left: 10px;
+    padding-right: 10px;
+    margin-bottom: 10px;
+}
+.benific .btns-benif{
+   display: flex;
+   margin-bottom: 20px;
+   justify-content: space-evenly;
+   margin-top: 20px;
+}
+.benific .btns-benif button{
+    background-color: #42358d;
+    border: none;
+    outline: none;
+    font-size: 18px;
+    font-weight: 600;
+    color: #ffffff;
+    border-radius: 50px;
+    padding: 10px 30px;
+    cursor: pointer;
+}
+.step-four p{
+    text-align: left;
+}
+.benific .irrevoc button{
+    padding: 5px 50px;
+}
+.benific .step-six .bottom-text{
+    text-align: center;
+    font-style: italic;
+    width: 90%;
+    margin: 0 auto;
+}
+.benific .step-seven p{
+    text-align: center;
+}
+.step-eight p{
+    font-weight: bold;
+}
+.step-six-2{
+    text-align: center;
+}
+.step-six-3 p{
+    text-align: center;
+    font-weight: 400;
+    padding: 0 20%;
+    color: #42358d;
+}
+.text-center{
+    text-align: center;
+}
+.step-six-3 button{
+    border-radius: 50px;
+    border: none;
+    outline: none;
+    background-color: #42358d;
+    color: #fff;
+    font-weight: bold;
+    padding: 10px 35px;
+    width: 90%;
+}
+.step-six-3 button span{
+    font-weight: 400;
+}
+.step-six-3 a{
+    border-radius: 50px;
+    border: none;
+    outline: none;
+    background-color: #42358d;
+    color: #fff;
+    font-weight: bold;
+    padding: 10px 35px;
+    width: 100%;
+    text-decoration: none;
+    display: inline-block;
+}
+.step-six-3 a span{
+    font-weight: 400;
+}
+.step-six-3 .col-md{
+    margin-bottom: 15px;
+}
+.step-seven{
+    text-align: center;
+}
+.step-seven img{
+    margin: 25px 0;
+}
+#StripePayment input[type="submit"]{
+    background-color: #42358d;
+    color: #fff;
+    width: 100%;
+    border: none;
+    text-align: center;
+    padding: 10px 20px;
+}
